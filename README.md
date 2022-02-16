@@ -8,4 +8,4 @@
 - pset 6: cash, credit, dna, hello, mario, readability
 - pset 7: houses, movies
 - pset 8: mario, pong
-- **final project: breakout**
+- **final project: [breakout](https://youtu.be/ACfvfy7zuTs)**
