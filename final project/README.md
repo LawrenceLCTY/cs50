@@ -1,5 +1,5 @@
-CS50 FINAL PROJECT- BRICK BREAKER
-Simple Breakout game using Love2D
+#CS50 FINAL PROJECT- BRICK BREAKER
+> Simple Breakout game using Love2D ([demo video](https://youtu.be/ACfvfy7zuTs))
 
 Game states: start(menu), serve(prepare to serve ball), play(main gameplay), lost(player loses), won(player wins)
 	Ball stays on paddle during serve state, paddle can move anywhere along x-axis
